@@ -15,8 +15,9 @@ Install dependencies:
 
 ```
 $ export OPENAI_API_KEY=
+$ export ANTHROPIC_API_KEY=
 $ export SERPER_API_KEY=
-$ export OTEL_SDK_DISABLED=
+$ export OTEL_SDK_DISABLED=True
 
 $ python main.py
 ```
